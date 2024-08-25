@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+}
+
+.img{
+height: 400px;
+width: 400px;
+align-items: center;
+object-fit: cover;
+margin-left: 35%;
+}
+
+h1{
+    text-align: center;
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
